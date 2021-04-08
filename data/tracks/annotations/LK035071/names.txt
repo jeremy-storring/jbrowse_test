@@ -1,0 +1,5 @@
+[["LK035071.1","supercontig:LK035071"],"annotations","LK035071.1","LK035071",0,20987]
+[["tRNA-Lys","gene:ENSRNA049436224"],"annotations","tRNA-Lys","LK035071",6534,6606]
+[["BnaCnng49520D","gene:GSBRNA2T00051287001"],"annotations","BnaCnng49520D","LK035071",6863,8166]
+[["BnaCnng49530D","gene:GSBRNA2T00051288001"],"annotations","BnaCnng49530D","LK035071",8572,9821]
+[["BnaCnng49540D","gene:GSBRNA2T00051289001"],"annotations","BnaCnng49540D","LK035071",10524,12362]

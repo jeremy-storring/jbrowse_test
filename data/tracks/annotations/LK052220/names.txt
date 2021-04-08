@@ -1,0 +1,5 @@
+[["LK052220.1","supercontig:LK052220"],"annotations","LK052220.1","LK052220",0,2035]
+[["snoR134","gene:ENSRNA049450190"],"annotations","snoR134","LK052220",326,470]
+[["snoU36a","gene:ENSRNA049450182"],"annotations","snoU36a","LK052220",535,627]
+[["snoZ278","gene:ENSRNA049450164"],"annotations","snoZ278","LK052220",840,957]
+[["snoR97","gene:ENSRNA049450177"],"annotations","snoR97","LK052220",1041,1151]

@@ -1,0 +1,3 @@
+[["LK034161.1","supercontig:LK034161"],"annotations","LK034161.1","LK034161",0,37089]
+[["5_8S_rRNA","gene:ENSRNA049479469"],"annotations","5_8S_rRNA","LK034161",6865,7021]
+[["SSU_rRNA_eukarya","gene:ENSRNA049479464"],"annotations","SSU_rRNA_eukarya","LK034161",7234,8886]

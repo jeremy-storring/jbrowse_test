@@ -1,0 +1,4 @@
+[["LK038630.1","supercontig:LK038630"],"annotations","LK038630.1","LK038630",0,4565]
+[["BnaAnng29270D","gene:GSBRNA2T00083036001"],"annotations","BnaAnng29270D","LK038630",1227,1803]
+[["tRNA-Leu","gene:ENSRNA049434397"],"annotations","tRNA-Leu","LK038630",2772,2852]
+[["BnaAnng29280D","gene:GSBRNA2T00083037001"],"annotations","BnaAnng29280D","LK038630",3050,4062]

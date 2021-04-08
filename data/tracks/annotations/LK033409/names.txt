@@ -1,0 +1,5 @@
+[["LK033409.1","supercontig:LK033409"],"annotations","LK033409.1","LK033409",0,61845]
+[["5_8S_rRNA","gene:ENSRNA049477626"],"annotations","5_8S_rRNA","LK033409",1133,1289]
+[["LSU_rRNA_eukarya","gene:ENSRNA049477623"],"annotations","LSU_rRNA_eukarya","LK033409",3360,3860]
+[["LSU_rRNA_eukarya","gene:ENSRNA049477632"],"annotations","LSU_rRNA_eukarya","LK033409",3896,4080]
+[["LSU_rRNA_eukarya","gene:ENSRNA049477628"],"annotations","LSU_rRNA_eukarya","LK033409",43606,43933]

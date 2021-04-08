@@ -1,0 +1,1 @@
+[["BnaS84911g010.1DH","BnaS84911g010.1DH"],"mygff","BnaS84911g010.1DH","Scaffold84911",23,176]

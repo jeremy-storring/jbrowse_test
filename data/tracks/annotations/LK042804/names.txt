@@ -1,0 +1,2 @@
+[["LK042804.1","supercontig:LK042804"],"annotations","LK042804.1","LK042804",0,3146]
+[["Intron_gpII","gene:ENSRNA049445886"],"annotations","Intron_gpII","LK042804",120,217]

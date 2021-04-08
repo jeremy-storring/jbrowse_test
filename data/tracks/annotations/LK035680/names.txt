@@ -1,0 +1,5 @@
+[["LK035680.1","supercontig:LK035680"],"annotations","LK035680.1","LK035680",0,12508]
+[["BnaCnng53170D","gene:GSBRNA2T00058640001"],"annotations","BnaCnng53170D","LK035680",59,2146]
+[["BnaCnng53180D","gene:GSBRNA2T00058641001"],"annotations","BnaCnng53180D","LK035680",3817,4885]
+[["tRNA-Tyr","gene:ENSRNA049435315"],"annotations","tRNA-Tyr","LK035680",10337,10422]
+[["tRNA-Tyr","gene:ENSRNA049435311"],"annotations","tRNA-Tyr","LK035680",11144,11229]

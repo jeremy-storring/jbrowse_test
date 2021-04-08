@@ -1,0 +1,1 @@
+[["LK033758.1","supercontig:LK033758"],"annotations","LK033758.1","LK033758",0,48267]

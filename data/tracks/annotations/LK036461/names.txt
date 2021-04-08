@@ -1,0 +1,2 @@
+[["LK036461.1","supercontig:LK036461"],"annotations","LK036461.1","LK036461",0,8956]
+[["BnaC05g49190D","gene:GSBRNA2T00066114001"],"annotations","BnaC05g49190D","LK036461",856,2613]

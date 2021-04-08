@@ -1,0 +1,2 @@
+[["LK041884.1","supercontig:LK041884"],"annotations","LK041884.1","LK041884",0,3352]
+[["5_8S_rRNA","gene:ENSRNA049445486"],"annotations","5_8S_rRNA","LK041884",1610,1766]

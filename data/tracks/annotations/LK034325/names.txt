@@ -1,0 +1,4 @@
+[["LK034325.1","supercontig:LK034325"],"annotations","LK034325.1","LK034325",0,33197]
+[["BnaCnng42350D","gene:GSBRNA2T00039459001"],"annotations","BnaCnng42350D","LK034325",775,1583]
+[["Intron_gpII","gene:ENSRNA049479505"],"annotations","Intron_gpII","LK034325",7890,7968]
+[["BnaCnng42360D","gene:GSBRNA2T00039463001"],"annotations","BnaCnng42360D","LK034325",28478,31397]

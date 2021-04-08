@@ -1,0 +1,5 @@
+[["LK035540.1","supercontig:LK035540"],"annotations","LK035540.1","LK035540",0,14087]
+[["BnaAnng23130D","gene:GSBRNA2T00056749001"],"annotations","BnaAnng23130D","LK035540",2762,5055]
+[["BnaAnng23140D","gene:GSBRNA2T00056750001"],"annotations","BnaAnng23140D","LK035540",5345,6169]
+[["tRNA-Leu","gene:ENSRNA049435217"],"annotations","tRNA-Leu","LK035540",6460,6540]
+[["BnaAnng23150D","gene:GSBRNA2T00056751001"],"annotations","BnaAnng23150D","LK035540",8589,12749]

@@ -1,0 +1,8 @@
+[["LK034217.1","supercontig:LK034217"],"annotations","LK034217.1","LK034217",0,35559]
+[["5S_rRNA","gene:ENSRNA049479255"],"annotations","5S_rRNA","LK034217",24409,24528]
+[["5S_rRNA","gene:ENSRNA049479250"],"annotations","5S_rRNA","LK034217",29127,29246]
+[["5S_rRNA","gene:ENSRNA049479258"],"annotations","5S_rRNA","LK034217",29620,29739]
+[["5S_rRNA","gene:ENSRNA049479269"],"annotations","5S_rRNA","LK034217",31568,31686]
+[["5S_rRNA","gene:ENSRNA049479246"],"annotations","5S_rRNA","LK034217",32064,32183]
+[["5S_rRNA","gene:ENSRNA049479264"],"annotations","5S_rRNA","LK034217",32214,32334]
+[["5S_rRNA","gene:ENSRNA049479271"],"annotations","5S_rRNA","LK034217",32709,32798]

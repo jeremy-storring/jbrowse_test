@@ -1,0 +1,4 @@
+[["LK033454.1","supercontig:LK033454"],"annotations","LK033454.1","LK033454",0,60043]
+[["BnaC08g47120D","gene:GSBRNA2T00017738001"],"annotations","BnaC08g47120D","LK033454",6152,9968]
+[["BnaC08g47130D","gene:GSBRNA2T00017739001"],"annotations","BnaC08g47130D","LK033454",14807,15023]
+[["SSU_rRNA_eukarya","gene:ENSRNA049477687"],"annotations","SSU_rRNA_eukarya","LK033454",45549,45849]

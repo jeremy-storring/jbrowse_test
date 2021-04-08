@@ -1,0 +1,4 @@
+[["LK034502.1","supercontig:LK034502"],"annotations","LK034502.1","LK034502",0,29676]
+[["snoR44_J54","gene:ENSRNA049476434"],"annotations","snoR44_J54","LK034502",5740,5836]
+[["BnaCnng44390D","gene:GSBRNA2T00042443001"],"annotations","BnaCnng44390D","LK034502",5908,6630]
+[["BnaCnng44400D","gene:GSBRNA2T00042445001"],"annotations","BnaCnng44400D","LK034502",26351,28323]

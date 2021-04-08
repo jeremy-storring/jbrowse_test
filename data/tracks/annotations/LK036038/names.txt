@@ -1,0 +1,4 @@
+[["LK036038.1","supercontig:LK036038"],"annotations","LK036038.1","LK036038",0,10490]
+[["BnaCnng54710D","gene:GSBRNA2T00062846001"],"annotations","BnaCnng54710D","LK036038",52,1555]
+[["tRNA-Phe","gene:ENSRNA049436665"],"annotations","tRNA-Phe","LK036038",1730,1802]
+[["BnaCnng54720D","gene:GSBRNA2T00062847001"],"annotations","BnaCnng54720D","LK036038",1986,8457]

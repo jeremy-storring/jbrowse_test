@@ -1,0 +1,4 @@
+[["LK035328.1","supercontig:LK035328"],"annotations","LK035328.1","LK035328",0,17208]
+[["5S_rRNA","gene:ENSRNA049476618"],"annotations","5S_rRNA","LK035328",7481,7600]
+[["5S_rRNA","gene:ENSRNA049476624"],"annotations","5S_rRNA","LK035328",7977,8096]
+[["5S_rRNA","gene:ENSRNA049476614"],"annotations","5S_rRNA","LK035328",8475,8594]

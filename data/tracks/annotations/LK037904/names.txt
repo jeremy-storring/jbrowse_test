@@ -1,0 +1,4 @@
+[["LK037904.1","supercontig:LK037904"],"annotations","LK037904.1","LK037904",0,5130]
+[["BnaAnng28270D","gene:GSBRNA2T00077596001"],"annotations","BnaAnng28270D","LK037904",171,1051]
+[["BnaAnng28280D","gene:GSBRNA2T00077597001"],"annotations","BnaAnng28280D","LK037904",1404,3220]
+[["tRNA-Asp","gene:ENSRNA049436458"],"annotations","tRNA-Asp","LK037904",4254,4326]

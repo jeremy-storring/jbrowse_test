@@ -1,0 +1,5 @@
+[["LK036200.1","supercontig:LK036200"],"annotations","LK036200.1","LK036200",0,9914]
+[["BnaAnng24440D","gene:GSBRNA2T00064344001"],"annotations","BnaAnng24440D","LK036200",2,2532]
+[["BnaAnng24450D","gene:GSBRNA2T00064345001"],"annotations","BnaAnng24450D","LK036200",2878,3217]
+[["BnaAnng24460D","gene:GSBRNA2T00064346001"],"annotations","BnaAnng24460D","LK036200",3285,7660]
+[["BnaAnng24470D","gene:GSBRNA2T00064347001"],"annotations","BnaAnng24470D","LK036200",8774,9760]

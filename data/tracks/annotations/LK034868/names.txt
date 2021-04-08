@@ -1,0 +1,5 @@
+[["LK034868.1","supercontig:LK034868"],"annotations","LK034868.1","LK034868",0,23602]
+[["BnaCnng48030D","gene:GSBRNA2T00046947001"],"annotations","BnaCnng48030D","LK034868",7164,7449]
+[["snoZ279_R105_R108","gene:ENSRNA049478738"],"annotations","snoZ279_R105_R108","LK034868",21825,21936]
+[["tRNA-Glu","gene:ENSRNA049436077"],"annotations","tRNA-Glu","LK034868",22558,22630]
+[["BnaCnng48040D","gene:GSBRNA2T00046949001"],"annotations","BnaCnng48040D","LK034868",22672,23432]

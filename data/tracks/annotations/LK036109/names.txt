@@ -1,0 +1,2 @@
+[["LK036109.1","supercontig:LK036109"],"annotations","LK036109.1","LK036109",0,10196]
+[["SSU_rRNA_eukarya","gene:ENSRNA049448521"],"annotations","SSU_rRNA_eukarya","LK036109",7528,8484]

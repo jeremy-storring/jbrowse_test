@@ -1,0 +1,7 @@
+[["LK037235.1","supercontig:LK037235"],"annotations","LK037235.1","LK037235",0,6108]
+[["tRNA-Ser","gene:ENSRNA049436389"],"annotations","tRNA-Ser","LK037235",1402,1484]
+[["tRNA-Tyr","gene:ENSRNA049436398"],"annotations","tRNA-Tyr","LK037235",2143,2228]
+[["tRNA-Ser","gene:ENSRNA049436404"],"annotations","tRNA-Ser","LK037235",3132,3214]
+[["tRNA-Tyr","gene:ENSRNA049436415"],"annotations","tRNA-Tyr","LK037235",3877,3962]
+[["tRNA-Ser","gene:ENSRNA049436417"],"annotations","tRNA-Ser","LK037235",4867,4949]
+[["tRNA-Tyr","gene:ENSRNA049436427"],"annotations","tRNA-Tyr","LK037235",5604,5689]

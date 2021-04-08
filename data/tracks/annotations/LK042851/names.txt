@@ -1,0 +1,4 @@
+[["LK042851.1","supercontig:LK042851"],"annotations","LK042851.1","LK042851",0,3135]
+[["tRNA-Ser","gene:ENSRNA049438338"],"annotations","tRNA-Ser","LK042851",675,757]
+[["tRNA-Tyr","gene:ENSRNA049438327"],"annotations","tRNA-Tyr","LK042851",1662,1747]
+[["tRNA-Ser","gene:ENSRNA049438316"],"annotations","tRNA-Ser","LK042851",2404,2486]

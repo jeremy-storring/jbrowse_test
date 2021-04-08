@@ -1,0 +1,5 @@
+[["LK036397.1","supercontig:LK036397"],"annotations","LK036397.1","LK036397",0,9212]
+[["BnaUnng02370D","gene:GSBRNA2T00066004001"],"annotations","BnaUnng02370D","LK036397",2531,4444]
+[["Intron_gpII","gene:ENSRNA049448664"],"annotations","Intron_gpII","LK036397",3264,3375]
+[["BnaUnng02380D","gene:GSBRNA2T00066005001"],"annotations","BnaUnng02380D","LK036397",4525,5356]
+[["BnaUnng02390D","gene:GSBRNA2T00066007001"],"annotations","BnaUnng02390D","LK036397",6659,8578]

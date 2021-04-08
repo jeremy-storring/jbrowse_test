@@ -1,0 +1,3 @@
+[["LK033536.1","supercontig:LK033536"],"annotations","LK033536.1","LK033536",0,56381]
+[["tRNA-Lys","gene:ENSRNA049447601"],"annotations","tRNA-Lys","LK033536",50139,50211]
+[["BnaC08g46440D","gene:GSBRNA2T00020376001"],"annotations","BnaC08g46440D","LK033536",50338,51147]
